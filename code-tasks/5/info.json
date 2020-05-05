@@ -4,3 +4,6 @@
     "scripts.js"
   ]
 }
+<form action="/internship" method="GET">
+   <h6>Заявка на стажировку</h6> 
+</form>
